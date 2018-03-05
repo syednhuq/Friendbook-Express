@@ -1,0 +1,83 @@
+var friends = [
+{
+  "name":"Amy",
+  "photo":"http://devilsworkshop.org/files/2013/01/enlarged-facebook-profile-picture.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Bob",
+  "photo":"http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2017/10/lin-manuel-miranda-showtime-series.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Cat",
+  "photo":"http://i0.wp.com/www.bollywoodbusiness.in/wp-content/uploads/2017/07/Vani-Bhojan-Wiki-Biography-Pics-Age-Wallpaper-Profile-Tv-Serial-Indian-Hottie-2.jpg?resize=721%2C410",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Dil",
+  "photo":"https://doximity-res.cloudinary.com/image/upload/t_public_profile_photo_320x320/v1376020284/vpacqe0vmlivyv8o2yxh.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Eva",
+  "photo":"https://pbs.twimg.com/profile_images/669549276930904065/z5vh822l.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+]
+module.exports = friends;
