@@ -33,7 +33,7 @@ var friends = [
 },
 {
   "name":"Cat",
-  "photo":"http://i0.wp.com/www.bollywoodbusiness.in/wp-content/uploads/2017/07/Vani-Bhojan-Wiki-Biography-Pics-Age-Wallpaper-Profile-Tv-Serial-Indian-Hottie-2.jpg?resize=721%2C410",
+  "photo":"http://www.tellywoodhungama.com/wp-content/uploads/2017/04/14902728_1314845185246438_7247392697202181915_o.jpg",
   "scores":[
      5,
      1,

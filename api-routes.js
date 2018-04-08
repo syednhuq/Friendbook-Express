@@ -4,11 +4,11 @@ var path 			= require('path');
 var totalDifference = 0;
 
 module.exports = function(app){
-	app.get('/api/friends', function(req, res){
+	app.get('./friends', function(req, res){
 		res.json(friends);
 	});
 
-	app.post('/api/friends', function(req, res){
+	app.post('./friends', function(req, res){
 
 		var greatMatch = {
 			name: "",
