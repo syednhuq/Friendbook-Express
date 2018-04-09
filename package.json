@@ -1,15 +1,24 @@
 {
-  "name": "friendbook_express",
+  "name": "friendbook-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Match up with and make friends by answering a quick survey. App uses Express and Node.",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syednhuq/Friendbook-Express.git"
+  },
   "author": "Syed",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+  "bugs": {
+    "url": "https://github.com/syednhuq/Friendbook-Express/issues"
+  },
+  "homepage": "https://github.com/syednhuq/Friendbook-Express#readme"
 }
